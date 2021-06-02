@@ -1,5 +1,5 @@
 {
-  "name": "bpampuch/pdfmake",
+  "name": "gaomingcode/pdfmake",
   "type": "library",
   "description": "Client/server side PDF printing in pure JavaScript",
   "keywords": [
