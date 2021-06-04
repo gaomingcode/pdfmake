@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/pdfmake.svg)](https://github.com/gaomingcode/pdfmake)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/pdfmake)](https://github.com/gaomingcode/pdfmake)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/pdfmake)](https://github.com/gaomingcode/pdfmake)
+[![Github License](https://img.shields.io/github/license/gaomingcode/pdfmake)](https://github.com/gaomingcode/pdfmake)
 
 ## Installation
 
@@ -11,7 +11,27 @@
 ```
 composer require gaomingcode/pdfmake
 ```
-###
+
+## ReadMe from Origin
+[![Node.js CI][githubactions_img]][githubactions_url] [![GitHub][github_img]][github_url] [![npm][npm_img]][npm_url] [![Bower][bower_img]][bower_url] [![Packagist][packagist_img]][packagist_url] [![CDNJS][cdnjs_img]][cndjs_url]
+
+[githubactions_img]: https://github.com/bpampuch/pdfmake/workflows/Node.js%20CI/badge.svg?branch=master
+[githubactions_url]: https://github.com/bpampuch/pdfmake/actions
+
+[github_img]: https://img.shields.io/github/release/bpampuch/pdfmake.svg
+[github_url]: https://github.com/bpampuch/pdfmake/releases/latest
+
+[npm_img]: https://img.shields.io/npm/v/pdfmake.svg?colorB=0E7FBF
+[npm_url]: https://www.npmjs.com/package/pdfmake
+
+[bower_img]: https://img.shields.io/bower/v/pdfmake.svg?colorB=0E7FBF
+[bower_url]: https://github.com/bpampuch/pdfmake
+
+[packagist_img]: https://img.shields.io/packagist/v/bpampuch/pdfmake.svg?colorB=0E7FBF
+[packagist_url]: https://packagist.org/packages/bpampuch/pdfmake
+
+[cdnjs_img]: https://img.shields.io/cdnjs/v/pdfmake.svg?colorB=0E7FBF
+[cndjs_url]: https://cdnjs.com/libraries/pdfmake
 
 
 PDF document generation library for server-side and client-side in pure JavaScript.
